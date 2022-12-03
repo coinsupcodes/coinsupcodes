@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @coinsupcodes
-- 👀 I’m interested in Web Development, like HTML, CSS, and JS.
-- 🌱 I’m currently learning advanced CSS and intermediate JS.
-- 💞️ I’m looking to collaborate on web projects.
+- 👀 I’m interested in Web and Game Development.
+- 🌱 I’m currently learning C#.
+- 💞️ I’m looking to collaborate on games on Unity in 2D.
 - 📫 Reach me at @sriramvijayendra@gmail.com
 
 <!---
