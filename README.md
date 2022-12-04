@@ -9,4 +9,4 @@ coinsupcodes/coinsupcodes is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 
-![This is an image](https://www.avenga.com/wp-content/uploads/2020/11/C-Sharp.png)
+
